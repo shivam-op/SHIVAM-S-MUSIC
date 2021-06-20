@@ -1,8 +1,8 @@
 {
-  "name": "rishi-X-BoTz",
+  "name": "WINZOVC BOT",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/theshashankk/Coffin-X",
+  "repository": "https://github.com/shivam-op/SHIVAM-S-BOT",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
