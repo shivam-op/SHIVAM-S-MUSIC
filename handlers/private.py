@@ -16,17 +16,17 @@ Add me to your group and play music freely!**
             [
                 [
                     InlineKeyboardButton(
-                        "🤞🏻𝚈𝙾𝚄𝚁 𝙼𝙰𝙺𝙴𝚁🤞🏻", url="https://t.me/SHIVAM9412")
+                        "🔥BOT MAKER🔥", url="https://t.me/SHIVAM9412")
                   ],[
                     InlineKeyboardButton(
-                        "🔰𝙶𝚁𝙾𝚄𝙿🔰", url="https://t.me/WINZOGOLD_DISCUSS"
+                        "🔥GROUP🔥", url="https://t.me/WINZOGOLD_DISCUSS"
                     ),
                     InlineKeyboardButton(
-                        "🎛️ 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 🎛️", url="https://telegra.ph/MusicBot-Robot-MusicBot-Robo-03-14"
+                        "🔥COMMANDS 🔥", url="https://telegra.ph/MusicBot-Robot-MusicBot-Robo-03-14"
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "😎 𝙰𝙳𝙳 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 😎", url="https://t.me/WINZO_VC_BOT?startgroup=true"
+                        "🔥 ADD TO YOUR GROUP 🔥", url="https://t.me/WINZO_VC_BOT?startgroup=true"
                     )]
             ]
         ),
